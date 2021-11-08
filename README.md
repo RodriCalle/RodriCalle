@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<p><img src="https://badges.pufler.dev/visits/RodriCalle/RodriCalle"></p>
 <!--
 **RodriCalle/RodriCalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
