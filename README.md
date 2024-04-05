@@ -1,8 +1,7 @@
 # Hi, my name is **Rodrigo Calle** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
 
 ## 👨 Know more about me
- - 🎓 I am studying Software Engineering at <a href='https://www.upc.edu.pe/'>UPC</a></br>
- - 👨‍🎓 I am in the seventh cycle of the university career.
+ - 🎓 I am Bs Software Engineering at <a href='https://www.upc.edu.pe/'>UPC</a></br>
  - 💻 Programming lover
  - 💬 Ask me if you have questions, i will glad to help you.
  - 📧 My email is [rcg.mail](mailto:rodrigocallegaldos@gmail.com)
